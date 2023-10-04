@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "deep-learning-1"
+name = "deep_learning_1"
 version = "0.1.0"
 description = ""
 authors = ["Nikc-mk <3kaal6@gmail.com>"]
 readme = "README.md"
-packages = [{include = "deep_learning_1"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.9"
