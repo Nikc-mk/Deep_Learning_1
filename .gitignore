@@ -89,3 +89,7 @@ target/
 .mypy_cache/
 /notebooks/label_encoder.pkl
 **/*.csv
+
+notebooks/lfw-deepfunneled
+notebooks/mnist_data
+notebooks/lfw_attributes.txt
